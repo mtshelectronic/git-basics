@@ -19,7 +19,7 @@ function read_version()
 	document.getElementById("Card1_Micro").innerHTML = "- Micro Version: " + about_buf[13];
 
 
-	document.getElementById("Card2_FPGA").innerHTML = "- FPGA Version: " + about_buf[17];
+	document.getElementById("Card2_FPGA").innerHTML = "- FPGAAAAAAA Version: " + about_buf[17];
 	document.getElementById("Card2_Micro").innerHTML = "- Micro Version: " + about_buf[16];
 
 
